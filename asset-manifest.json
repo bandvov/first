@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/first-app/static/css/main.587c2fb3.chunk.css",
+    "main.js": "/first-app/static/js/main.c29a7784.chunk.js",
+    "main.js.map": "/first-app/static/js/main.c29a7784.chunk.js.map",
+    "runtime-main.js": "/first-app/static/js/runtime-main.d6ffc792.js",
+    "runtime-main.js.map": "/first-app/static/js/runtime-main.d6ffc792.js.map",
+    "static/js/2.010779ed.chunk.js": "/first-app/static/js/2.010779ed.chunk.js",
+    "static/js/2.010779ed.chunk.js.map": "/first-app/static/js/2.010779ed.chunk.js.map",
+    "index.html": "/first-app/index.html",
+    "precache-manifest.69a456539e19160d9502d7b373a60cf3.js": "/first-app/precache-manifest.69a456539e19160d9502d7b373a60cf3.js",
+    "service-worker.js": "/first-app/service-worker.js",
+    "static/css/main.587c2fb3.chunk.css.map": "/first-app/static/css/main.587c2fb3.chunk.css.map",
+    "static/js/2.010779ed.chunk.js.LICENSE": "/first-app/static/js/2.010779ed.chunk.js.LICENSE",
+    "static/media/AppHeader.scss": "/first-app/static/media/header.925bd63a.jpg",
+    "static/media/lenovo-desktop-computer-500x500.jpg": "/first-app/static/media/lenovo-desktop-computer-500x500.f7dddfd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6ffc792.js",
+    "static/js/2.010779ed.chunk.js",
+    "static/css/main.587c2fb3.chunk.css",
+    "static/js/main.c29a7784.chunk.js"
+  ]
+}
